@@ -1,3 +1,6 @@
+# Homework - Camera Calibration with OpenCV
+Homework of Computer Vision Course
+
 The aim of this homework is to understand how camera calibration works on OpenCV by using the checkerboard pattern and taking pictures from two different angles.
 The dataset used contains 28 pictures, 14 from left angle and 14 from right angles taken by Canon 750d camera.
 
